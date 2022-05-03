@@ -20,5 +20,5 @@
 // {
 //     "extends":["airbnb", "prettier"],
 //     "plugins":["prettier"],
-//     "rules":{}
+//     "rules":{ "no-unused-vars":"warn", "prettier/prettier":"error", "no-console":"off" }
 // }
